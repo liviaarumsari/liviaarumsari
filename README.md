@@ -47,7 +47,6 @@ I am currently a 4th semester student studying Computer Science at ITB, Indonesi
 ## 🏆 My Github Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liviaarumsari&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=liviaarumsari&show_icons=true&count_private=true&theme=dark&include_all_commits=true&custom_title=Livia's%20Stats" alt="GitHub Stats">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liviaarumsari&theme=dark&hide_border=false" alt="GitHub Stats streak">
 <p>
 
