@@ -4,9 +4,9 @@
 
 ## 👩 About Me :
 
-I am currently a 4th semester student studying Computer Science at ITB, Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A final year student studying Computer Science at ITB, Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m interested in full stack web development.
+- 🔭 I’m interested in full stack development.
 - 🌱 I have extensive knowledge and software skills.
 <!-- ⚡  -->
 
